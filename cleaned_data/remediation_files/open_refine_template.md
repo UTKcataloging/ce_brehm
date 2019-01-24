@@ -19,7 +19,7 @@
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
 {{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form_URI'].value + '">' + cells['form'].value + '</form>')}}
 </physicalDescription>
-<originInfo><dateIssued>{{cells['date_text'].value}}</dateIssued><dateIssued encoding="edtf" keyDate="yes">{{cells['date'].value}}</dateIssued></originInfo>
+<originInfo><dateCreated>{{cells['date_text'].value}}</dateCreated><dateCreated encoding="edtf" keyDate="yes">{{cells['date'].value}}</dateCreated></originInfo>
 {{if(isBlank(cells['author'].value), '', '<name' + if(isBlank(cells['author_URI'].value), '', ' authority="naf" valueURI="' + cells['author_URI'].value + '"') + '><namePart>' + cells['author'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>')}}
 {{if(isBlank(cells['correspondent'].value), '', '<name' + if(isBlank(cells['correspondent_URI'].value), '', ' authority="naf" valueURI="' + cells['correspondent_URI'].value + '"') + '><namePart>' + cells['correspondent'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>')}}
 {{if(isBlank(cells['addressee'].value), '', '<name' + if(isBlank(cells['addressee_URI'].value), '', ' authority="naf" valueURI="' + cells['addressee_URI'].value + '"') + '><namePart>' + cells['addressee'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>')}}
