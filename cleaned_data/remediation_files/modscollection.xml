@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="filename">brehm_1</identifier>
+<titleInfo supplied="yes"><title>Surrender of Athletic Charter, to Dean Dougherty et al, July 5, 1951</title></titleInfo>
+<abstract>Letter proposing plans to make athletics an extracurricular activity of the University of Tennessee.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jul 5, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-07-05</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<note>Addressed to: N. W. Dougherty, Fred C. Smith, R. R. Neyland, Ralph E. Dunford, J. P. Hess, John L. Neely, Jr., and Harold Read</note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_10</identifier>
+<titleInfo supplied="yes"><title>State Statement re. Negroes in Extension Program, to Dean F. C. Lowry, September 26, 1953</title></titleInfo>
+<abstract>Letter stating that extension courses will follow segregation policies established by the Defense Department.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Sep 26, 1953</dateCreated><dateCreated encoding="edtf" keyDate="yes">1953-09-26</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Lowry, F. G.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_11</identifier>
+<titleInfo supplied="yes"><title>Gov. Frank Clement on Integration, January 9, 1957</title></titleInfo>
+<abstract>Speech on racial integration.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026671">speeches (documents)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jan 9, 1957</dateCreated><dateCreated encoding="edtf" keyDate="yes">1957-01-09</dateCreated></originInfo>
+<name><namePart>Clement, Frank</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140494"><topic>United States--Race relations</topic></subject>
+
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118341"><topic>School integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_12</identifier>
+<titleInfo supplied="yes"><title>Supreme Court Decision in U.T. Case, to Dr. C. E. Brehm, June 13, 1950</title></titleInfo>
+<abstract>Correspondence containing two judicial decisions: Sweatt v.
+Painter and McLaurin v. Oklahoma State Regents for Higher
+Education, Board of Regents of University of Oklahoma,
+et al. </abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300027857">decisions (judicial records)</form>
+</physicalDescription>
+<originInfo><dateCreated>Jun 3, 1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950-06-03</dateCreated></originInfo>
+
+<name><namePart>Hess, J. P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009048756"><name><namePart>Sweatt, Heman Marion, 1912-1982</namePart></name></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009051673"><name><namePart>McLaurin, G. W.</namePart></name></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_13</identifier>
+<titleInfo supplied="yes"><title>Supreme Court Decision re. Desegregation, to Dr. C. E. Brehm, January 13, 1952</title></titleInfo>
+<abstract>Gray et al. versus The University of Tennessee et al.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026909">telegrams</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jan 13, 1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952-01-13</dateCreated></originInfo>
+
+<name><namePart>Hooker, John</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004066888"><name><namePart>Gray, Gene Mitchell</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_14</identifier>
+<titleInfo supplied="yes"><title>Special Committee of U.T. Board in Segregation and Negro Case, A. L. Jackson, April 9, 1953</title></titleInfo>
+<abstract>Letter outlining the admission requirements for African Americans.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 9, 1953</dateCreated><dateCreated encoding="edtf" keyDate="yes">1953-04-09</dateCreated></originInfo>
+
+<name><namePart>Waters, E. A.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Jackson, L. A.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_15</identifier>
+<titleInfo supplied="yes"><title>Judge Marion Boyd's Opinion on Desegregation, to Dr. C. E.  Brehm, October 31, 1955</title></titleInfo>
+<abstract>Letter acknowledging delivery of Judge Boyd's opinion.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Oct 31, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-10-31</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80161266"><namePart>McCanless, George</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140494"><topic>United States--Race relations</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_16</identifier>
+<titleInfo supplied="yes"><title>Committee Report on Admission of Blacks, April 24, 1956</title></titleInfo>
+<abstract>Press release outlining plans for the gradual admission of African American students to the University of Tennessee.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026437">press releases</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 24, 1956</dateCreated><dateCreated encoding="edtf" keyDate="yes">1956-04-24</dateCreated></originInfo>
+<name><namePart>News Bureau, University of Tennessee</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001949"><topic>African Americans--Education (Higher)</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_17</identifier>
+<titleInfo supplied="yes"><title>Judge Robert L. Taylor's Opinion on Segregation, to Dr. C. E. Brehm, April 26, 1951</title></titleInfo>
+<abstract>Letter sharing documentation of Gene Mitchell Gray et al. vs. University of Tennessee et al., Civil no. 1567</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027857">decisions (judicial records)</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+</physicalDescription>
+<originInfo><dateCreated>Apr 26, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-04-26</dateCreated></originInfo>
+
+<name><namePart>Hess, J. P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004066888"><name><namePart>Gray, Gene Mitchell</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_18</identifier>
+<titleInfo supplied="yes"><title>General Roy H. Beeler's Opinion on Segregation, to Dr. C. E. Brehm, September 26, 1950</title></titleInfo>
+<abstract>Opinion on educational segregation that outlines previous relevant case law and current developments in the south.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027590">legal documents</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+</physicalDescription>
+<originInfo><dateCreated>Sep 26, 1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950-09-26</dateCreated></originInfo>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008163454"><namePart>Beeler, Roy H. (Roy Hood), 1882-1954</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008163454"><namePart>Beeler, Roy H. (Roy Hood), 1882-1954</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_19</identifier>
+<titleInfo supplied="yes"><title>Recommendation of Dean R. F. Thomason, to President C. E. Brehm, February 8, 1952</title></titleInfo>
+<abstract>Letter discussing the implications of Sweatt vs. Painter decision for the University of Tennessee.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Feb 8, 1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952-02-08</dateCreated></originInfo>
+
+<name><namePart>Thomason, R. F.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009048756"><name><namePart>Sweatt, Heman Marion, 1912-1982</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_2</identifier>
+<titleInfo supplied="yes"><title>Setup of Athletic Board, to Dean Dougherty et al, October 29, 1951</title></titleInfo>
+<abstract>Plans for forming the Athletic Board as part of the University of Tennessee following the cancellation of the Athletic Association charter. Includes names of board members.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Oct 29, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-10-29</dateCreated></originInfo>
+
+<name><namePart>Dougherty, N. W.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>Addressed to:  N. W. Dougherty, Fred C. Smith, R. R. Neyland, Ralph E. Dunford, J. P. Hess, John L. Neely, Jr., Harold Read, and John C. Baugh</note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_20</identifier>
+<titleInfo supplied="yes"><title>Statistical Information on Negro Colleges and Universities: Students, Staff and Finances, 1900-1950</title></titleInfo>
+<abstract>Statistical Circular no. 293</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 1, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-04-01</dateCreated></originInfo>
+<name><namePart>Badger, Henry</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001949"><topic>African Americans--Education (Higher)</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001919"><topic>African American universities and colleges</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010117486"><topic>Universities and colleges--United States--Statistics</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_21</identifier>
+<titleInfo supplied="yes"><title>Hooker and Walker, Attorneys, to John J. Hooker, November 7, 1952</title></titleInfo>
+<abstract>Letter enclosing check from the University of Tennessee.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Nov 7, 1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952-11-07</dateCreated></originInfo>
+
+<name><namePart>Hess, J. P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Hooker, John J.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85098898"><topic>Payment</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_22</identifier>
+<titleInfo supplied="yes"><title>History of Segregation at U.T., to Roy H. Beeler, October 17, 1942</title></titleInfo>
+<abstract>Letter discussing the effect of Missouri ex rel. Gaines v. Canada for admission to the University of Tennessee's law school for African Americans.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Oct 17, 1942</dateCreated><dateCreated encoding="edtf" keyDate="yes">1942-10-17</dateCreated></originInfo>
+
+<name><namePart>Kruesi, P. J.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008163454"><namePart>Beeler, Roy H.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_23</identifier>
+<titleInfo supplied="yes"><title>Tennessee Supreme Court Decision, April 16, 1937</title></titleInfo>
+<abstract>State of Tennessee, Ex Rel William B. Redmond II vs. O. W. Hyman et al., No. 41, 690 R. D. </abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027857">decisions (judicial records)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 16, 1937</dateCreated><dateCreated encoding="edtf" keyDate="yes">1937-04-16</dateCreated></originInfo>
+<name><namePart>Bejach, L. D.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003883"><name><namePart>University of Tennessee (Memphis campus)</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_24</identifier>
+<titleInfo supplied="yes"><title>Meeting in Governor Browning's Office, June 5, 1950</title></titleInfo>
+<abstract>Meeting discussing conversation between E. A. Waters and Jean Gray on the University of Tennessee's policy on admitting students of color.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027440">minutes (administrative records)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jun 5, 1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950-06-05</dateCreated></originInfo>
+<name><namePart>Gill, Louise</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2004066888"><name><namePart>Gray, Gene Mitchell</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_25</identifier>
+<titleInfo supplied="yes"><title>Correspondence with the Attorney General's Office, to Dr. C. E. Brehm, July 1, 1948</title></titleInfo>
+<abstract>Letter stating that admission to the University of Tennessee Law school cannot be given to African Americans.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jul 1, 1948</dateCreated><dateCreated encoding="edtf" keyDate="yes">1948-07-01</dateCreated></originInfo>
+
+<name><namePart>Kennerly, Robert</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_26</identifier>
+<titleInfo supplied="yes"><title>American Bar Association, to President Cloide E. Brehm, March 24, 1952</title></titleInfo>
+<abstract>Letter sharing resolutions adopted by the American Bar Association.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Mar 24, 1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952-03-24</dateCreated></originInfo>
+
+<name><namePart>Mathews, Robert</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078692"><topic>Loyalty oaths</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2007100497"><topic>Academic freedom--United States</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n78083441"><name><namePart>American Bar Association</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_27</identifier>
+<titleInfo supplied="yes"><title>American Association of University Professors, to President C. E. Brehm, August 14, 1950</title></titleInfo>
+<abstract>Letter sharing news of a committee within the American Association of University Professors dedicated to gathering information on African American admittance to institutions of higher education.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Aug 14, 1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950-08-14</dateCreated></originInfo>
+
+<name><namePart>Cole, William</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_28</identifier>
+<titleInfo supplied="yes"><title>Statements re. Segregation, to Dr. C. E. Brehm, March 19, 1952</title></titleInfo>
+<abstract>Inflammatory letter on the University of Tennessee's decision to accept African American students.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Mar 19, 1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952-03-19</dateCreated></originInfo>
+
+<name><namePart>Burrow, R. J.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2010013387"><topic>Reputation</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_29</identifier>
+<titleInfo supplied="yes"><title>Requests of Negroes to be on University Faculty, to Dr. I. L. Ferguson, August 13, 1953</title></titleInfo>
+<abstract>Response letter to inquiry on faculty openings.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Aug 13, 1953</dateCreated><dateCreated encoding="edtf" keyDate="yes">1953-08-13</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2008029572"><namePart>Hyman, O. W.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Ferguson, I. L.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038388"><topic>Discrimination in employment</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001826"><topic>African American college teachers</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85042875"><topic>Employee selection</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_3</identifier>
+<titleInfo supplied="yes"><title>Minutes and Correspondence re. Athletics, April 21, 1955</title></titleInfo>
+<abstract>Minutes outlining the search process for a football coach, resulting in the hiring of Bowden Wyatt.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027440">minutes (administrative records)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 21, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-04-21</dateCreated></originInfo>
+<name><namePart>Board of Trustees, Secretary</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93004859"><topic>Football coaches</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85042875"><topic>Employee selection</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_30</identifier>
+<titleInfo supplied="yes"><title>Requests of Negroes for Rooms in Residence Halls, to Gretchen L. Bundy, June 5, 1956</title></titleInfo>
+<abstract>Response letter informing African American student that she will need to find private housing.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jun 5, 1956</dateCreated><dateCreated encoding="edtf" keyDate="yes">1956-06-05</dateCreated></originInfo>
+
+<name><namePart>Beach, Gladys</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Bundy, Gretchen L.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038391"><topic>Discrimination in housing</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_31</identifier>
+<titleInfo supplied="yes"><title>Correspondence on Desegregation, to J. H. McLeod, January 5, 1955</title></titleInfo>
+<abstract>Letter to the dean of the College of Agriculture bringing attention to pay discrepancies between white and black employees.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jan 5, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-01-05</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>McLeod, J. H.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008119838"><topic>Equal pay for equal work--United States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001951"><topic>African Americans--Employment</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038388"><topic>Discrimination in employment</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_32</identifier>
+<titleInfo supplied="yes"><title>Non-Discrimination Clause in Research Contracts, to C. E. Brehm, December 31, 1954</title></titleInfo>
+<abstract>Letter on executive order 10557, a non-discrimination clause affecting government employees.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Dec 31, 1954</dateCreated><dateCreated encoding="edtf" keyDate="yes">1954-12-31</dateCreated></originInfo>
+
+<name><namePart>Roth, Herman</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85038388"><topic>Discrimination in employment</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_33</identifier>
+<titleInfo supplied="yes"><title>Reports from Other Institutions on Integration, to Harley Fowler, December 8, 1955</title></titleInfo>
+<abstract>Letter proposing a meeting of key individuals within the University of Tennessee administration to discuss university admission of African Americans.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Dec 8, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-12-08</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009101437"><namePart>Cope, Quill</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Fowler, Harley</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_34</identifier>
+<titleInfo supplied="yes"><title>Sundry Correspondence on Admission of Negroes to University, to Mr. Frank Ahlgren et al., December 16, 1955</title></titleInfo>
+<abstract>Notice of integration meeting.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Dec 16, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-12-16</dateCreated></originInfo>
+
+<name><namePart>Fowler, Harley</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Ahlgren, Frank</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>Addressed to:  Frank Ahlgren, John Baugh, C. E. Brehm, Quill E. Cope, O. W. Hyman, Harry W. Laughlin, George McCanless, Wassell Randolph and E. A. Waters</note>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_4</identifier>
+<titleInfo supplied="yes"><title>Board of Trustees Resolution on Athletic Association, July 2, 1951</title></titleInfo>
+<abstract>Letter on the surrender of the University of Tennessee Athletic Association charter.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jul 2, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-07-02</dateCreated></originInfo>
+
+<name><namePart>Executive Committee</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93005390"><topic>Athletics--Law and legislation</topic></subject>
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_5</identifier>
+<titleInfo supplied="yes"><title>De-Emphasis of Football, etc., to Tom McDonough, December 6, 1951</title></titleInfo>
+<abstract>Letter criticizing the rigor of academic requirements for student athletes at the University of Tennessee.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Dec 6, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-12-06</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2010138304"><namePart>Hobt, A. W.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<note>CC:  President C. E. Brehm</note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh86000158"><topic>College athletes</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028339"><topic>College sports--Law and legislation</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_6</identifier>
+<titleInfo supplied="yes"><title>De-Emphasis of Football, etc., to C. E. Brehm</title></titleInfo>
+<abstract>Letter requesting a meeting of the Presidents of the Southeastern Conference.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jan 1, 1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951-01-01</dateCreated></originInfo>
+
+<name><namePart>Branscomb, Harvey</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_7</identifier>
+<titleInfo supplied="yes"><title>Letters of Criticism re. Athletic Department, to C. E. Brehm, April 13, 1955</title></titleInfo>
+<abstract>Letter acknowledging error.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Apr 13, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-04-13</dateCreated></originInfo>
+
+<name><namePart>Striegel, Roy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028340"><topic>College sports--Management</topic></subject>
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_8</identifier>
+<titleInfo supplied="yes"><title>Correspondence re. Desegregation, to J. P. Hess, October 4, 1950</title></titleInfo>
+<abstract>Letter suggesting the University of Tennessee upholds segregation with police power.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Oct 4, 1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950-10-04</dateCreated></originInfo>
+
+<name><namePart>Randolph, Wassell</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name><namePart>Hess, J. P.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh91003913"><topic>Discrimination in higher education</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009114029"><topic>African Americans--Education--Southern States</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85001962"><topic>African Americans--Legal status, laws, etc</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="filename">brehm_9</identifier>
+<titleInfo supplied="yes"><title>State Board of Ed. Resolution re. Segregation, to C. E. Brehm, June 20, 1955</title></titleInfo>
+<abstract>Letter thanking President Brehm for his attendance at a meeting on college integration.</abstract>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+
+</physicalDescription>
+<originInfo><dateCreated>Jun 20, 1955</dateCreated><dateCreated encoding="edtf" keyDate="yes">1955-06-20</dateCreated></originInfo>
+
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009101437"><namePart>Cope, Quill</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2019010507"><namePart>Brehm, Cloide Everette, 1889-1971</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/rcp">Addressee</roleTerm></role></name>
+<note>    </note>
+
+
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028306"><topic>College integration</topic></subject>
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>C. E. Brehm, University of Tennessee Office of the President Records, 1948-1959</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>University of Tennessee Office of the President Records 1948-1959</title></titleInfo><identifier>AR.0006</identifier><location><url>https://n2t.net/ark:/87290/v8416v6b</url></location></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
