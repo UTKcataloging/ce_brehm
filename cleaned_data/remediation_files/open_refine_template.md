@@ -17,7 +17,7 @@
 <titleInfo supplied="yes"><title>{{cells['title'].value}}</title></titleInfo>
 <abstract>{{cells['abstract'].value}}</abstract>
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
-{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form_URI'].value + '">' + cells['form'].value + '</form>')}}
+{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form2_URI'].value + '">' + cells['form2'].value + '</form>')}}
 </physicalDescription>
 <originInfo><dateCreated>{{cells['date_text'].value}}</dateCreated><dateCreated encoding="edtf" keyDate="yes">{{cells['date'].value}}</dateCreated></originInfo>
 {{if(isBlank(cells['author'].value), '', '<name' + if(isBlank(cells['author_URI'].value), '', ' authority="naf" valueURI="' + cells['author_URI'].value + '"') + '><namePart>' + cells['author'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>')}}
